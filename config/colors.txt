@@ -5,4 +5,4 @@ green
 pink
 black
 brown
-zachnanchev
+frontend/img/bonzi/zachnanchev.png
